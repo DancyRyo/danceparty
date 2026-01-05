@@ -1,0 +1,7 @@
+{
+  "name": "AI Dance Party Creator",
+  "description": "A creative drawing app where your sketches come to life as dancers in a neon disco. Draw circles, stars, or anything, and watch them groove to the beat!",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
